@@ -1,10 +1,11 @@
 ### Hi there 👋
 
-<!--
-**krisnaputra31/krisnaputra31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# First of all
+this i a github that created using school email and if you accidentally find this github profile with similiar name krisna31 They are the SAME person
+<br>
+so if you want know about krisna31 you can click this <a href="https://github.com/krisna31">link</a> or just search it in github search fitur
 
-Here are some ideas to get you started:
-
+<--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
